@@ -10,4 +10,5 @@ fun main(args: Array<String>) {
 	println("Hello World!")
 	runApplication<GitApplication>(*args)
 	println("Hello World!")
+	this is just to introduce error
 }
