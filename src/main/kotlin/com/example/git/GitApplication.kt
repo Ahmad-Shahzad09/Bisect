@@ -7,5 +7,7 @@ import org.springframework.boot.runApplication
 class GitApplication
 
 fun main(args: Array<String>) {
+	println("Hello World!")
 	runApplication<GitApplication>(*args)
+	println("Hello World!")
 }
